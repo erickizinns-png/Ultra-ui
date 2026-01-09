@@ -1,3 +1,9 @@
+-- 🔟 WXV ULTRA SPEED UI
+_G.WXV = _G.WXV or {}
+_G.WXV.ULTRA_SPEED_UI = _G.WXV.ULTRA_SPEED_UI or false
+if not _G.WXV.ULTRA_SPEED_UI then return end
+
+-- Código do WXV ULTRA SPEED UI aqui
 -- =====================================================
 -- WXV SPEED BOOST | SCRIPT COMPLETO
 -- =====================================================
